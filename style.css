@@ -316,19 +316,5 @@ tr{
     }
         
     }
-    .footer-r-1{
-        flex-direction: column;
-        align-items: center;
-        text-align: center;
-    }
-    .footer-r-2{
-        flex-direction: column;
-        margin: auto;
-        padding-top: 10px;
-    }
-    
-    .footer-r-3{
-        margin: auto;
-        padding-top: 100px;
-    }
+   
 }
